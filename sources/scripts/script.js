@@ -5,9 +5,9 @@ function random(min, max){
 }
 
 let howAreYou = [`You, little piece of love... It's none of your business!`,
-`Do something useful, instead of this, okay?`, 
+`Do something useful instead of this, okay?`, 
 `But why? I just wanna relax, but YOU... Your person breaked my rest.`, 
-`All things in my life were okay, before your emersion.`,
+`All things in my life were okay before your emersion.`,
 `You will regret it!!!`
 ]
 
