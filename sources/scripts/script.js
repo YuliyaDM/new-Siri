@@ -13,7 +13,6 @@ let howAreYou = [`You, little piece of love... It's none of your business!`,
 
 let weather = [
     `The weather is good unlike you.`,
-    `The people like you must know nothing, even the weather, because they have to suffer.`,
     `Ha-ha)) The weather is very cold... For you.`
 ]
 
